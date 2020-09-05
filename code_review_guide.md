@@ -54,7 +54,7 @@
 
 * Remember to praise when the code quality exceeds your expectation.
 
-* It isn't necessarily wrong if the coder's solution is different than yours.
+* It isn't necessarily wrong if the coder's solution is different from yours.
 
 * Refer to the code style document when necessary.
 
